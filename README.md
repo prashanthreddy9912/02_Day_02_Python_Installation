@@ -1,4 +1,4 @@
-# 02_Day_02_Python_Installation
+# 01_Day_01_Python_Installation
 Python Software Installation
 
 Dowloading from the website: python.org
